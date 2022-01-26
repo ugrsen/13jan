@@ -1,0 +1,13 @@
+*{
+    font-size: 40px; 
+    background-color: #e8e4eb;
+}
+#head{
+  color: rgb(23, 24, 24);
+}
+#para{
+  color: rgb(17, 17, 15);
+}
+button{
+    background-color: #971d1d;
+}
